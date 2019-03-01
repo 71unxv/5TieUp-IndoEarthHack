@@ -7,26 +7,23 @@
 
    
    ## Members
-   - Kanu
-   - Aslan
-   - Irsyad
+   - [Kanu](https://www.linkedin.com/in/arkanuandaru/)
+   - [Aslan](https://www.linkedin.com/in/aslansaputra/)
+   - [Irsyad](https://www.linkedin.com/in/irsyadhbtlh/)
    - Sarah
-   - Syauqi
+   - [Syauqi](https://www.linkedin.com/in/ahmad-syauqi-b73a61128/)
    
    ## Technologies/Software/Libraries Used
-   - Python
-   - Psopy
-   - Lasio
-   - Bruges
-   
-   ## How to run your code/app/system
-   
-   ## Link to your application
+   - [Psopy](https://pypi.org/project/psopy/)
+   - [Lasio](https://github.com/kinverarity1/lasio)
+   - [Bruges](https://github.com/agile-geoscience/bruges)
 
-## License
-The hack is governed by Creative Commons, CC BY. You can:
-- Copy
-- Adapt or Modify
-- Redistribute (Publish, Display, Publicly Perform or Communicate the Work
-- License to others
+   
+
+   ## License
+   The hack is governed by Creative Commons, CC BY. You can:
+   - Copy
+   - Adapt or Modify
+   - Redistribute (Publish, Display, Publicly Perform or Communicate the Work
+   - License to others
 
