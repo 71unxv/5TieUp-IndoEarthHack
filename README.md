@@ -2,7 +2,9 @@
    # 5TieUp-IndoEarthHack
    
    ## Description
-   We solve the seismic-well ties problem through the application of Particle Swarm Optimization to estimate the best non gaussian  wavelet
+   We solve the seismic-well ties problem through the application of Particle Swarm Optimization to estimate the best non gaussian  wavelet.
+   this code created during the event EAGE-HACKATHON 2019 @ Kuala Lumpur. 
+
    
    ## Members
    - Kanu
